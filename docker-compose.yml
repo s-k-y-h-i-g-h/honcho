@@ -135,5 +135,5 @@ services:
 volumes:
   pgdata:
   redis-data:
-   venv:
-   prometheus-data:
+  venv:
+  prometheus-data:
